@@ -49,9 +49,10 @@ set OPENAI_API_KEY="your_openai_api_key"    # On Windows
 
 
 6. Run the Streamlit App
+
 Navigate to the folder containing app.py and run:
 bash
-Copy code
+
 streamlit run app.py
 
 
